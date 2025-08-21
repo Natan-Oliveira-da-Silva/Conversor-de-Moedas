@@ -1,4 +1,7 @@
 # Conversor de Moedas
+
+[Acesse o projeto](https://natan-oliveira-da-silva.github.io/Conversor-de-Moedas/)
+
 ## Sobre o Software
 O Conversor de Moedas é um software que proporciona ao usuário uma facilidade na conversão de moedas. Ele foi construído com as linguagens HTML, CSS e JavaScript. A fonte das informações usadas nas conversões do Conversor é a API pública AwesomeAPI. O conversor obtém as taxas de conversão fornecidas pela API e as exibe de forma amigável e dinâmica. A inspiração do Conversor de Moedas foi o site dolarhoje.com, que também executa conversões de moedas.
 ![Tela inicial da aplicação](https://github.com/Natan-Oliveira-da-Silva/Conversor-de-Moedas/blob/main/tela_inicial.png)
